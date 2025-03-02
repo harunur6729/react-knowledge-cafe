@@ -1,49 +1,50 @@
 [
     {
       "id": 1,
-      "cover": "Sunlit Valley",
+      "cover": "https://i.ibb.co.com/jgzp3HY/high-angle-desktop-with-laptop-copy-space.jpg",
       "title": "Whispers in the Wind",
       "author": "Alice Bennett",
-      "author_img": "https://i.ibb.co.com/jgzp3HY/high-angle-desktop-with-laptop-copy-space.jpg",
+      "author_img": "https://i.ibb.co.com/JmyF16k/harun1.png",
       "posted_date": "2024-10-01",
       "reading_time": 5,
       "hashtags": ["#Mystery", "#Drama", "#NewRelease"]
     },
     {
       "id": 2,
-      "cover": "Desert Mirage",
+      "cover": "https://i.ibb.co.com/pQRwD5M/create-your-own-brand-words-woman-working-laptop-background.jpg",
       "title": "Oasis of Dreams",
       "author": "Rami Khalil",
-      "author_img": "https://i.ibb.co.com/pQRwD5M/create-your-own-brand-words-woman-working-laptop-background.jpg",
+      "author_img": "https://i.ibb.co.com/mcZ2v9t/harun2.png",
+      "posted_date": "2024-10-01",
       "reading_time": 8,
       "hashtags": ["#Adventure", "#Travel", "#Inspiration"]
     },
     {
       "id": 3,
-      "cover": "Winter’s Embrace",
+      "cover": "https://i.ibb.co.com/Z1gFkF5/toy-bricks-table-with-word-blog.jpg",
       "title": "Frozen Echoes",
       "author": "Emily Frost",
-      "author_img": "https://i.ibb.co.com/Z1gFkF5/toy-bricks-table-with-word-blog.jpg",
+      "author_img": "https://i.ibb.co.com/ZYTrDW6/boy1.png",
       "posted_date": "2024-10-10",
       "reading_time": 6,
       "hashtags": ["#Fantasy", "#Romance", "#WinterTale"]
     },
     {
       "id": 4,
-      "cover": "Urban Glow",
+      "cover": "https://i.ibb.co.com/HrN2QdY/toy-bricks-table-with-word-my-blog.jpg",
       "title": "The Neon Silence",
       "author": "David Chan",
-      "author_img": "https://i.ibb.co.com/HrN2QdY/toy-bricks-table-with-word-my-blog.jpg",
+      "author_img": "https://i.ibb.co.com/LNqTR6S/boy2.jpg",
       "posted_date": "2024-10-12",
       "reading_time": 4,
       "hashtags": ["#SciFi", "#Cityscape", "#Futuristic"]
     },
     {
       "id": 5,
-      "cover": "Verdant Hills",
+      "cover": "https://i.ibb.co.com/tmJt0rn/2.png",
       "title": "Green Horizons",
       "author": "Sofia Fernandez",
-      "author_img": "https://fakeimg.com/author_sofia_fernandez.jpg",
+      "author_img": "https://i.ibb.co.com/KKF6J9D/girl2.jpg",
       "posted_date": "2024-10-15",
       "reading_time": 7,
       "hashtags": ["#Nature", "#Adventure", "#Wildlife"]
